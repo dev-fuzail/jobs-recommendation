@@ -1,0 +1,1051 @@
+job_id,job_title,company,location,skills,experience,description
+1,Full Stack Developer,Microsoft,"Mountain View, CA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+2,DevOps Engineer,Microsoft,"Mountain View, CA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+3,Backend Developer,IBM,"San Francisco, CA",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+4,Frontend Developer,Facebook,"Boston, MA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+5,Data Scientist,Adobe,"Mountain View, CA",Python;R;Machine Learning;SQL,7,Develop and implement machine learning models for product recommendations.
+6,Mobile App Developer,Apple,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,4,Develop and deploy mobile applications across platforms.
+7,QA Engineer,Netflix,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+8,QA Engineer,IBM,"Austin, TX",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+9,QA Engineer,Amazon,"New York, NY",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+10,QA Engineer,Salesforce,"Austin, TX",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+11,DevOps Engineer,Microsoft,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+12,DevOps Engineer,Salesforce,"Mountain View, CA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+13,QA Engineer,Adobe,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+14,QA Engineer,Adobe,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+15,Senior Software Engineer,Microsoft,"San Francisco, CA",Python;Java;Cloud;Microservices,10,Lead the development of scalable cloud infrastructure and microservices architecture.
+16,Data Scientist,IBM,"Austin, TX",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+17,Full Stack Developer,Google,"Chicago, IL",HTML;CSS;JavaScript;Angular,1,Build dynamic and responsive full-stack web applications.
+18,Frontend Developer,Netflix,"Mountain View, CA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+19,Full Stack Developer,IBM,"Seattle, WA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+20,QA Engineer,Intel,"Redmond, WA",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+21,DevOps Engineer,Netflix,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+22,Senior Software Engineer,Facebook,"Cupertino, CA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+23,Mobile App Developer,Netflix,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+24,Frontend Developer,Netflix,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+25,Cloud Architect,Intel,"Menlo Park, CA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+26,Cloud Architect,IBM,"Chicago, IL",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+27,Cloud Architect,Facebook,"Seattle, WA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+28,Machine Learning Engineer,Netflix,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+29,Full Stack Developer,Microsoft,"San Francisco, CA",HTML;CSS;JavaScript;Angular,1,Build dynamic and responsive full-stack web applications.
+30,Cloud Architect,Salesforce,"New York, NY",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+31,Frontend Developer,Amazon,"Chicago, IL",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+32,Cloud Architect,Facebook,"Chicago, IL",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+33,Machine Learning Engineer,Apple,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+34,DevOps Engineer,IBM,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+35,Machine Learning Engineer,Salesforce,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+36,Mobile App Developer,Adobe,"Boston, MA",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+37,QA Engineer,Netflix,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+38,DevOps Engineer,Netflix,"Menlo Park, CA",Kubernetes;Terraform;AWS;CI/CD,5,Automate infrastructure and deployment pipelines.
+39,Data Scientist,Microsoft,"Redmond, WA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+40,Machine Learning Engineer,IBM,"Cupertino, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+41,Senior Software Engineer,Google,"Seattle, WA",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+42,Mobile App Developer,Google,"New York, NY",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+43,Full Stack Developer,Microsoft,"Cupertino, CA",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+44,Cloud Architect,Microsoft,"Boston, MA",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+45,Cloud Architect,Netflix,"Chicago, IL",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+46,Backend Developer,IBM,"Seattle, WA",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+47,DevOps Engineer,Apple,"Mountain View, CA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+48,Senior Software Engineer,Intel,"Seattle, WA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+49,Full Stack Developer,Amazon,"Mountain View, CA",HTML;CSS;JavaScript;Angular,3,Build dynamic and responsive full-stack web applications.
+50,QA Engineer,Adobe,"Boston, MA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+51,Cloud Architect,Microsoft,"Boston, MA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+52,Machine Learning Engineer,Microsoft,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+53,Full Stack Developer,Facebook,"New York, NY",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+54,QA Engineer,IBM,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+55,Frontend Developer,Netflix,"Chicago, IL",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+56,DevOps Engineer,Intel,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+57,Data Scientist,Intel,"Cupertino, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+58,Full Stack Developer,Netflix,"Redmond, WA",HTML;CSS;JavaScript;Angular,4,Build dynamic and responsive full-stack web applications.
+59,Backend Developer,Apple,"Boston, MA",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+60,Full Stack Developer,Salesforce,"Mountain View, CA",HTML;CSS;JavaScript;Angular,9,Build dynamic and responsive full-stack web applications.
+61,Cloud Architect,Apple,"Redmond, WA",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+62,QA Engineer,Microsoft,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+63,DevOps Engineer,Google,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+64,Backend Developer,Microsoft,"Mountain View, CA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+65,Backend Developer,Adobe,"San Francisco, CA",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+66,Mobile App Developer,Adobe,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+67,Frontend Developer,Microsoft,"Seattle, WA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+68,Machine Learning Engineer,Netflix,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+69,Cloud Architect,Facebook,"Austin, TX",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+70,DevOps Engineer,IBM,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+71,QA Engineer,Salesforce,"New York, NY",Selenium;JUnit;TestNG;Postman,1,Test and ensure the quality of software applications.
+72,Data Scientist,IBM,"Chicago, IL",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+73,DevOps Engineer,Salesforce,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,4,Automate infrastructure and deployment pipelines.
+74,Machine Learning Engineer,Google,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+75,Mobile App Developer,Facebook,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+76,Backend Developer,Facebook,"Mountain View, CA",Node.js;Express;MongoDB;Docker,10,Design and maintain backend APIs and services.
+77,Full Stack Developer,Intel,"Seattle, WA",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+78,Frontend Developer,Microsoft,"New York, NY",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+79,Mobile App Developer,Adobe,"New York, NY",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+80,Senior Software Engineer,IBM,"Seattle, WA",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+81,Frontend Developer,IBM,"Seattle, WA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+82,Mobile App Developer,Apple,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+83,Backend Developer,IBM,"Austin, TX",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+84,QA Engineer,Amazon,"Seattle, WA",Selenium;JUnit;TestNG;Postman,1,Test and ensure the quality of software applications.
+85,QA Engineer,Google,"New York, NY",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+86,Cloud Architect,Apple,"Mountain View, CA",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+87,Senior Software Engineer,Intel,"Cupertino, CA",Python;Java;Cloud;Microservices,10,Lead the development of scalable cloud infrastructure and microservices architecture.
+88,Full Stack Developer,Microsoft,"Menlo Park, CA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+89,Machine Learning Engineer,Facebook,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+90,Frontend Developer,Microsoft,"Mountain View, CA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+91,Senior Software Engineer,Google,"Austin, TX",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+92,QA Engineer,Adobe,"Redmond, WA",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+93,Cloud Architect,Facebook,"Cupertino, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+94,Cloud Architect,Apple,"Mountain View, CA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+95,QA Engineer,Microsoft,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+96,Data Scientist,IBM,"Chicago, IL",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+97,Senior Software Engineer,Salesforce,"Seattle, WA",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+98,Backend Developer,Intel,"Chicago, IL",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+99,DevOps Engineer,IBM,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+100,Machine Learning Engineer,Apple,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+101,Mobile App Developer,Apple,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+102,Data Scientist,Adobe,"Austin, TX",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+103,QA Engineer,Amazon,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+104,QA Engineer,Amazon,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+105,Data Scientist,Microsoft,"Menlo Park, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+106,Full Stack Developer,Facebook,"Boston, MA",HTML;CSS;JavaScript;Angular,1,Build dynamic and responsive full-stack web applications.
+107,Frontend Developer,Intel,"Boston, MA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+108,QA Engineer,Amazon,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+109,QA Engineer,Intel,"Seattle, WA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+110,Machine Learning Engineer,Microsoft,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+111,Full Stack Developer,Apple,"New York, NY",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+112,DevOps Engineer,Google,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+113,Cloud Architect,IBM,"New York, NY",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+114,Mobile App Developer,Amazon,"Boston, MA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+115,Backend Developer,Microsoft,"Boston, MA",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+116,Mobile App Developer,Facebook,"Boston, MA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+117,Full Stack Developer,Google,"Austin, TX",HTML;CSS;JavaScript;Angular,4,Build dynamic and responsive full-stack web applications.
+118,Mobile App Developer,Apple,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+119,Frontend Developer,Intel,"Chicago, IL",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+120,Frontend Developer,Netflix,"Boston, MA",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+121,Mobile App Developer,Netflix,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+122,DevOps Engineer,Google,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+123,Frontend Developer,Microsoft,"Chicago, IL",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+124,Frontend Developer,Apple,"New York, NY",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+125,QA Engineer,Netflix,"Chicago, IL",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+126,DevOps Engineer,Amazon,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+127,Full Stack Developer,Netflix,"Austin, TX",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+128,Cloud Architect,Adobe,"Menlo Park, CA",Azure;GCP;Networking;Security,8,Design cloud solutions and guide teams in cloud migration.
+129,Backend Developer,Facebook,"Chicago, IL",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+130,Full Stack Developer,IBM,"New York, NY",HTML;CSS;JavaScript;Angular,4,Build dynamic and responsive full-stack web applications.
+131,Frontend Developer,Google,"Chicago, IL",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+132,QA Engineer,Adobe,"Seattle, WA",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+133,Senior Software Engineer,Adobe,"Cupertino, CA",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+134,Data Scientist,Microsoft,"Chicago, IL",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+135,Cloud Architect,Microsoft,"San Francisco, CA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+136,QA Engineer,Facebook,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,7,Test and ensure the quality of software applications.
+137,Backend Developer,Amazon,"Boston, MA",Node.js;Express;MongoDB;Docker,10,Design and maintain backend APIs and services.
+138,Machine Learning Engineer,Intel,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+139,QA Engineer,Salesforce,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+140,Cloud Architect,Apple,"Chicago, IL",Azure;GCP;Networking;Security,8,Design cloud solutions and guide teams in cloud migration.
+141,Mobile App Developer,Microsoft,"San Francisco, CA",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+142,Machine Learning Engineer,Google,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+143,Frontend Developer,Netflix,"Austin, TX",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+144,Backend Developer,Salesforce,"New York, NY",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+145,Cloud Architect,Intel,"Redmond, WA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+146,Full Stack Developer,Amazon,"New York, NY",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+147,Senior Software Engineer,Microsoft,"Redmond, WA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+148,Backend Developer,Intel,"New York, NY",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+149,Backend Developer,Netflix,"Boston, MA",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+150,Cloud Architect,Netflix,"Cupertino, CA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+151,Data Scientist,Adobe,"New York, NY",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+152,Frontend Developer,Salesforce,"Chicago, IL",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+153,Mobile App Developer,Salesforce,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+154,Data Scientist,Microsoft,"Redmond, WA",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+155,QA Engineer,Salesforce,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+156,Cloud Architect,Google,"Menlo Park, CA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+157,Mobile App Developer,Apple,"Boston, MA",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+158,Mobile App Developer,Netflix,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+159,DevOps Engineer,Intel,"Austin, TX",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+160,Cloud Architect,Amazon,"Redmond, WA",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+161,DevOps Engineer,Netflix,"Menlo Park, CA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+162,Mobile App Developer,Amazon,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+163,Data Scientist,Apple,"Menlo Park, CA",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+164,Cloud Architect,Apple,"New York, NY",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+165,Backend Developer,Netflix,"Mountain View, CA",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+166,Mobile App Developer,Netflix,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+167,QA Engineer,Adobe,"Austin, TX",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+168,Backend Developer,Netflix,"Redmond, WA",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+169,Senior Software Engineer,IBM,"New York, NY",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+170,Mobile App Developer,Amazon,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,4,Develop and deploy mobile applications across platforms.
+171,Full Stack Developer,Adobe,"San Francisco, CA",HTML;CSS;JavaScript;Angular,10,Build dynamic and responsive full-stack web applications.
+172,Mobile App Developer,Adobe,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+173,Senior Software Engineer,Google,"Seattle, WA",Python;Java;Cloud;Microservices,10,Lead the development of scalable cloud infrastructure and microservices architecture.
+174,Mobile App Developer,Netflix,"New York, NY",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+175,QA Engineer,Amazon,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+176,Backend Developer,Netflix,"Chicago, IL",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+177,Full Stack Developer,Apple,"Chicago, IL",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+178,Cloud Architect,Netflix,"New York, NY",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+179,Mobile App Developer,Google,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+180,Senior Software Engineer,Amazon,"Menlo Park, CA",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+181,Cloud Architect,Adobe,"Redmond, WA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+182,DevOps Engineer,Apple,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+183,Full Stack Developer,Facebook,"Chicago, IL",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+184,Mobile App Developer,Amazon,"San Francisco, CA",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+185,DevOps Engineer,Adobe,"Menlo Park, CA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+186,DevOps Engineer,Microsoft,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+187,Frontend Developer,Adobe,"Austin, TX",React;JavaScript;TypeScript;CSS,1,Build and maintain user interfaces for web applications.
+188,Full Stack Developer,Salesforce,"San Francisco, CA",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+189,QA Engineer,Salesforce,"Chicago, IL",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+190,Frontend Developer,Amazon,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+191,Data Scientist,IBM,"Menlo Park, CA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+192,Full Stack Developer,Netflix,"Seattle, WA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+193,Backend Developer,Salesforce,"Cupertino, CA",Node.js;Express;MongoDB;Docker,4,Design and maintain backend APIs and services.
+194,Data Scientist,Intel,"New York, NY",Python;R;Machine Learning;SQL,7,Develop and implement machine learning models for product recommendations.
+195,Mobile App Developer,Salesforce,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+196,Frontend Developer,IBM,"Redmond, WA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+197,DevOps Engineer,Netflix,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+198,Machine Learning Engineer,Amazon,"Mountain View, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+199,Cloud Architect,Microsoft,"Seattle, WA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+200,Backend Developer,Google,"New York, NY",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+201,QA Engineer,Apple,"Austin, TX",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+202,Data Scientist,IBM,"Boston, MA",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+203,QA Engineer,Salesforce,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+204,Data Scientist,Microsoft,"Mountain View, CA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+205,Mobile App Developer,Intel,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+206,QA Engineer,IBM,"New York, NY",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+207,Senior Software Engineer,IBM,"Boston, MA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+208,Cloud Architect,Adobe,"Chicago, IL",Azure;GCP;Networking;Security,8,Design cloud solutions and guide teams in cloud migration.
+209,Backend Developer,IBM,"San Francisco, CA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+210,Senior Software Engineer,Adobe,"Austin, TX",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+211,Machine Learning Engineer,Apple,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,7,Apply deep learning to real-world data problems.
+212,Backend Developer,Netflix,"Cupertino, CA",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+213,Backend Developer,Amazon,"Boston, MA",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+214,DevOps Engineer,Intel,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+215,Full Stack Developer,Microsoft,"Menlo Park, CA",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+216,QA Engineer,Facebook,"Austin, TX",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+217,Data Scientist,Apple,"San Francisco, CA",Python;R;Machine Learning;SQL,4,Develop and implement machine learning models for product recommendations.
+218,Senior Software Engineer,IBM,"Mountain View, CA",Python;Java;Cloud;Microservices,3,Lead the development of scalable cloud infrastructure and microservices architecture.
+219,Machine Learning Engineer,IBM,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+220,Full Stack Developer,IBM,"New York, NY",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+221,Data Scientist,Intel,"Seattle, WA",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+222,Frontend Developer,Adobe,"Boston, MA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+223,Full Stack Developer,Adobe,"Mountain View, CA",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+224,Mobile App Developer,IBM,"Boston, MA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+225,Cloud Architect,Facebook,"Cupertino, CA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+226,Senior Software Engineer,Amazon,"New York, NY",Python;Java;Cloud;Microservices,3,Lead the development of scalable cloud infrastructure and microservices architecture.
+227,Machine Learning Engineer,Apple,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+228,Mobile App Developer,Netflix,"Boston, MA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+229,Full Stack Developer,Adobe,"San Francisco, CA",HTML;CSS;JavaScript;Angular,10,Build dynamic and responsive full-stack web applications.
+230,Frontend Developer,Facebook,"San Francisco, CA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+231,Full Stack Developer,Apple,"San Francisco, CA",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+232,Senior Software Engineer,Salesforce,"Mountain View, CA",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+233,Machine Learning Engineer,Apple,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+234,Machine Learning Engineer,Netflix,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+235,Full Stack Developer,Adobe,"San Francisco, CA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+236,Machine Learning Engineer,Intel,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+237,Full Stack Developer,Microsoft,"Redmond, WA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+238,Senior Software Engineer,Amazon,"Austin, TX",Python;Java;Cloud;Microservices,10,Lead the development of scalable cloud infrastructure and microservices architecture.
+239,DevOps Engineer,Microsoft,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,4,Automate infrastructure and deployment pipelines.
+240,Full Stack Developer,Amazon,"Austin, TX",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+241,Senior Software Engineer,Netflix,"Chicago, IL",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+242,Senior Software Engineer,Adobe,"Mountain View, CA",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+243,Mobile App Developer,IBM,"New York, NY",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+244,Senior Software Engineer,Facebook,"Austin, TX",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+245,Frontend Developer,Salesforce,"Mountain View, CA",React;JavaScript;TypeScript;CSS,7,Build and maintain user interfaces for web applications.
+246,DevOps Engineer,Intel,"Chicago, IL",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+247,Data Scientist,Intel,"San Francisco, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+248,Frontend Developer,Apple,"Boston, MA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+249,Frontend Developer,Netflix,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+250,Cloud Architect,Adobe,"New York, NY",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+251,Backend Developer,Amazon,"Mountain View, CA",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+252,Senior Software Engineer,Google,"Seattle, WA",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+253,Machine Learning Engineer,Netflix,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+254,Mobile App Developer,Amazon,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+255,Full Stack Developer,Amazon,"Mountain View, CA",HTML;CSS;JavaScript;Angular,9,Build dynamic and responsive full-stack web applications.
+256,Full Stack Developer,Microsoft,"Chicago, IL",HTML;CSS;JavaScript;Angular,4,Build dynamic and responsive full-stack web applications.
+257,Data Scientist,Adobe,"San Francisco, CA",Python;R;Machine Learning;SQL,2,Develop and implement machine learning models for product recommendations.
+258,Machine Learning Engineer,Google,"Cupertino, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+259,QA Engineer,Netflix,"New York, NY",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+260,Senior Software Engineer,IBM,"Boston, MA",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+261,Data Scientist,Amazon,"New York, NY",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+262,DevOps Engineer,Amazon,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+263,Senior Software Engineer,Google,"Boston, MA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+264,Data Scientist,Google,"Austin, TX",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+265,DevOps Engineer,Adobe,"Austin, TX",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+266,QA Engineer,Microsoft,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+267,DevOps Engineer,Netflix,"Chicago, IL",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+268,Data Scientist,Salesforce,"New York, NY",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+269,Machine Learning Engineer,Netflix,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,7,Apply deep learning to real-world data problems.
+270,Backend Developer,IBM,"Austin, TX",Node.js;Express;MongoDB;Docker,4,Design and maintain backend APIs and services.
+271,Data Scientist,Adobe,"Seattle, WA",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+272,Data Scientist,Adobe,"New York, NY",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+273,Senior Software Engineer,IBM,"Boston, MA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+274,QA Engineer,Facebook,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+275,Data Scientist,Salesforce,"Chicago, IL",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+276,DevOps Engineer,IBM,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+277,QA Engineer,Facebook,"Boston, MA",Selenium;JUnit;TestNG;Postman,1,Test and ensure the quality of software applications.
+278,Mobile App Developer,Adobe,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+279,QA Engineer,Adobe,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+280,Mobile App Developer,Salesforce,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+281,DevOps Engineer,Salesforce,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+282,Data Scientist,Apple,"Menlo Park, CA",Python;R;Machine Learning;SQL,4,Develop and implement machine learning models for product recommendations.
+283,Backend Developer,Intel,"Mountain View, CA",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+284,Backend Developer,Adobe,"Boston, MA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+285,Frontend Developer,IBM,"Seattle, WA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+286,QA Engineer,IBM,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+287,QA Engineer,Microsoft,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+288,Machine Learning Engineer,Adobe,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+289,Data Scientist,Salesforce,"Menlo Park, CA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+290,Full Stack Developer,IBM,"Boston, MA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+291,Mobile App Developer,Facebook,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+292,Cloud Architect,Amazon,"Seattle, WA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+293,Senior Software Engineer,IBM,"Seattle, WA",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+294,Backend Developer,Facebook,"Menlo Park, CA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+295,Backend Developer,Amazon,"Seattle, WA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+296,Machine Learning Engineer,Intel,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+297,Senior Software Engineer,IBM,"Boston, MA",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+298,Data Scientist,Facebook,"Menlo Park, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+299,Mobile App Developer,Netflix,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+300,Senior Software Engineer,Google,"Chicago, IL",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+301,Full Stack Developer,Netflix,"Menlo Park, CA",HTML;CSS;JavaScript;Angular,3,Build dynamic and responsive full-stack web applications.
+302,Frontend Developer,Microsoft,"Mountain View, CA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+303,QA Engineer,Apple,"New York, NY",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+304,QA Engineer,IBM,"New York, NY",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+305,Machine Learning Engineer,Amazon,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,7,Apply deep learning to real-world data problems.
+306,Data Scientist,IBM,"Cupertino, CA",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+307,Cloud Architect,Netflix,"Redmond, WA",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+308,Backend Developer,Salesforce,"Redmond, WA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+309,Frontend Developer,IBM,"Boston, MA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+310,Full Stack Developer,Microsoft,"Seattle, WA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+311,Mobile App Developer,Apple,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,1,Develop and deploy mobile applications across platforms.
+312,Backend Developer,Intel,"San Francisco, CA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+313,Senior Software Engineer,Facebook,"Menlo Park, CA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+314,Frontend Developer,Apple,"San Francisco, CA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+315,DevOps Engineer,Netflix,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+316,Frontend Developer,Microsoft,"Cupertino, CA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+317,Frontend Developer,Apple,"Seattle, WA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+318,Backend Developer,Adobe,"Seattle, WA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+319,Machine Learning Engineer,Apple,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+320,Backend Developer,Adobe,"Chicago, IL",Node.js;Express;MongoDB;Docker,10,Design and maintain backend APIs and services.
+321,DevOps Engineer,Salesforce,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+322,Senior Software Engineer,Adobe,"New York, NY",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+323,DevOps Engineer,IBM,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+324,DevOps Engineer,IBM,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+325,Mobile App Developer,Google,"New York, NY",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+326,Senior Software Engineer,Apple,"Seattle, WA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+327,Data Scientist,Facebook,"Austin, TX",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+328,Cloud Architect,Apple,"San Francisco, CA",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+329,Frontend Developer,Facebook,"Redmond, WA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+330,Backend Developer,Intel,"Austin, TX",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+331,Senior Software Engineer,Apple,"Mountain View, CA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+332,Data Scientist,Facebook,"Menlo Park, CA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+333,Data Scientist,Adobe,"Boston, MA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+334,QA Engineer,Apple,"New York, NY",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+335,QA Engineer,Adobe,"New York, NY",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+336,Backend Developer,Apple,"Menlo Park, CA",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+337,Frontend Developer,Netflix,"Austin, TX",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+338,Frontend Developer,Apple,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+339,QA Engineer,Google,"Austin, TX",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+340,Backend Developer,Adobe,"Mountain View, CA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+341,QA Engineer,Apple,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,7,Test and ensure the quality of software applications.
+342,Senior Software Engineer,IBM,"Menlo Park, CA",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+343,QA Engineer,Netflix,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+344,Cloud Architect,Netflix,"Austin, TX",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+345,Machine Learning Engineer,Salesforce,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+346,Senior Software Engineer,Adobe,"San Francisco, CA",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+347,Frontend Developer,Netflix,"Cupertino, CA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+348,Senior Software Engineer,Netflix,"Cupertino, CA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+349,Full Stack Developer,Adobe,"Boston, MA",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+350,Machine Learning Engineer,Apple,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+351,Machine Learning Engineer,Intel,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+352,Machine Learning Engineer,Apple,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+353,Cloud Architect,Google,"Menlo Park, CA",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+354,Backend Developer,Microsoft,"Chicago, IL",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+355,QA Engineer,Intel,"Austin, TX",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+356,Frontend Developer,Apple,"Seattle, WA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+357,DevOps Engineer,Netflix,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+358,Backend Developer,Adobe,"Menlo Park, CA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+359,Mobile App Developer,IBM,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,4,Develop and deploy mobile applications across platforms.
+360,Senior Software Engineer,Google,"San Francisco, CA",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+361,Machine Learning Engineer,Amazon,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+362,Data Scientist,Google,"Cupertino, CA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+363,Cloud Architect,Microsoft,"Redmond, WA",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+364,Senior Software Engineer,Apple,"Redmond, WA",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+365,Senior Software Engineer,Amazon,"New York, NY",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+366,Mobile App Developer,Facebook,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,4,Develop and deploy mobile applications across platforms.
+367,Senior Software Engineer,Microsoft,"Boston, MA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+368,Data Scientist,Apple,"San Francisco, CA",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+369,Mobile App Developer,Google,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+370,Cloud Architect,Google,"Redmond, WA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+371,Senior Software Engineer,Amazon,"New York, NY",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+372,DevOps Engineer,Microsoft,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,5,Automate infrastructure and deployment pipelines.
+373,Frontend Developer,Amazon,"New York, NY",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+374,Cloud Architect,Adobe,"Boston, MA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+375,Machine Learning Engineer,Amazon,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+376,Machine Learning Engineer,Intel,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+377,Machine Learning Engineer,Facebook,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+378,Frontend Developer,Salesforce,"Redmond, WA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+379,DevOps Engineer,Apple,"Chicago, IL",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+380,QA Engineer,Adobe,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+381,Machine Learning Engineer,Google,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+382,QA Engineer,Intel,"Chicago, IL",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+383,Data Scientist,Salesforce,"Chicago, IL",Python;R;Machine Learning;SQL,2,Develop and implement machine learning models for product recommendations.
+384,Mobile App Developer,Facebook,"New York, NY",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+385,Backend Developer,IBM,"Menlo Park, CA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+386,Senior Software Engineer,Facebook,"New York, NY",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+387,Data Scientist,Intel,"Chicago, IL",Python;R;Machine Learning;SQL,4,Develop and implement machine learning models for product recommendations.
+388,Mobile App Developer,Google,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+389,QA Engineer,Netflix,"Chicago, IL",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+390,Full Stack Developer,Google,"Chicago, IL",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+391,QA Engineer,Microsoft,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+392,Data Scientist,Intel,"Seattle, WA",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+393,QA Engineer,Adobe,"Redmond, WA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+394,Cloud Architect,Salesforce,"San Francisco, CA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+395,Senior Software Engineer,Amazon,"Redmond, WA",Python;Java;Cloud;Microservices,3,Lead the development of scalable cloud infrastructure and microservices architecture.
+396,Machine Learning Engineer,Microsoft,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+397,Senior Software Engineer,IBM,"Seattle, WA",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+398,Data Scientist,Amazon,"Chicago, IL",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+399,QA Engineer,Adobe,"Austin, TX",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+400,Machine Learning Engineer,Apple,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+401,QA Engineer,Amazon,"New York, NY",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+402,Frontend Developer,Intel,"Austin, TX",React;JavaScript;TypeScript;CSS,7,Build and maintain user interfaces for web applications.
+403,Backend Developer,Adobe,"Chicago, IL",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+404,Frontend Developer,Intel,"Austin, TX",React;JavaScript;TypeScript;CSS,7,Build and maintain user interfaces for web applications.
+405,Machine Learning Engineer,Adobe,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+406,Frontend Developer,Microsoft,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+407,QA Engineer,Adobe,"Austin, TX",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+408,Cloud Architect,Salesforce,"Cupertino, CA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+409,Cloud Architect,Facebook,"Seattle, WA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+410,Senior Software Engineer,Adobe,"Mountain View, CA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+411,QA Engineer,Facebook,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+412,Backend Developer,Apple,"San Francisco, CA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+413,Backend Developer,Salesforce,"Chicago, IL",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+414,Cloud Architect,IBM,"Menlo Park, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+415,Mobile App Developer,Netflix,"New York, NY",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+416,Machine Learning Engineer,Facebook,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+417,Data Scientist,Google,"Redmond, WA",Python;R;Machine Learning;SQL,7,Develop and implement machine learning models for product recommendations.
+418,Mobile App Developer,Adobe,"San Francisco, CA",Swift;Kotlin;Flutter;Firebase,1,Develop and deploy mobile applications across platforms.
+419,Full Stack Developer,Apple,"Cupertino, CA",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+420,QA Engineer,Apple,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+421,Senior Software Engineer,Amazon,"Chicago, IL",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+422,Senior Software Engineer,Google,"New York, NY",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+423,Backend Developer,Adobe,"Menlo Park, CA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+424,QA Engineer,Apple,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+425,Frontend Developer,Netflix,"San Francisco, CA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+426,Data Scientist,IBM,"Chicago, IL",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+427,DevOps Engineer,IBM,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+428,Full Stack Developer,Salesforce,"Cupertino, CA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+429,DevOps Engineer,Apple,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,6,Automate infrastructure and deployment pipelines.
+430,DevOps Engineer,Apple,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+431,Cloud Architect,Facebook,"Redmond, WA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+432,QA Engineer,Microsoft,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,1,Test and ensure the quality of software applications.
+433,Backend Developer,Apple,"Menlo Park, CA",Node.js;Express;MongoDB;Docker,4,Design and maintain backend APIs and services.
+434,Data Scientist,Salesforce,"Boston, MA",Python;R;Machine Learning;SQL,2,Develop and implement machine learning models for product recommendations.
+435,QA Engineer,Adobe,"Chicago, IL",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+436,Full Stack Developer,Amazon,"Chicago, IL",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+437,Machine Learning Engineer,Apple,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+438,Full Stack Developer,IBM,"Redmond, WA",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+439,Cloud Architect,Amazon,"Chicago, IL",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+440,Data Scientist,Facebook,"Chicago, IL",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+441,DevOps Engineer,IBM,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+442,Machine Learning Engineer,IBM,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+443,Full Stack Developer,Apple,"Redmond, WA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+444,QA Engineer,Amazon,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+445,Backend Developer,Google,"Chicago, IL",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+446,Data Scientist,Netflix,"Chicago, IL",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+447,Machine Learning Engineer,IBM,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+448,QA Engineer,Google,"Boston, MA",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+449,Cloud Architect,Amazon,"Redmond, WA",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+450,QA Engineer,IBM,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+451,Cloud Architect,Amazon,"Mountain View, CA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+452,Cloud Architect,IBM,"Mountain View, CA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+453,Senior Software Engineer,Apple,"San Francisco, CA",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+454,Senior Software Engineer,Netflix,"Austin, TX",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+455,DevOps Engineer,Facebook,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,6,Automate infrastructure and deployment pipelines.
+456,QA Engineer,Intel,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+457,Frontend Developer,Netflix,"Boston, MA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+458,Data Scientist,Facebook,"San Francisco, CA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+459,Machine Learning Engineer,Facebook,"Cupertino, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,7,Apply deep learning to real-world data problems.
+460,Frontend Developer,Microsoft,"Seattle, WA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+461,Data Scientist,Intel,"Cupertino, CA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+462,Data Scientist,IBM,"Cupertino, CA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+463,Senior Software Engineer,Google,"Chicago, IL",Python;Java;Cloud;Microservices,3,Lead the development of scalable cloud infrastructure and microservices architecture.
+464,Cloud Architect,Apple,"Chicago, IL",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+465,Backend Developer,Amazon,"Austin, TX",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+466,Senior Software Engineer,Intel,"New York, NY",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+467,Full Stack Developer,Amazon,"Mountain View, CA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+468,Cloud Architect,Salesforce,"New York, NY",Azure;GCP;Networking;Security,8,Design cloud solutions and guide teams in cloud migration.
+469,Data Scientist,IBM,"Chicago, IL",Python;R;Machine Learning;SQL,4,Develop and implement machine learning models for product recommendations.
+470,Senior Software Engineer,Intel,"Menlo Park, CA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+471,Backend Developer,Apple,"Cupertino, CA",Node.js;Express;MongoDB;Docker,4,Design and maintain backend APIs and services.
+472,Cloud Architect,Amazon,"Boston, MA",Azure;GCP;Networking;Security,4,Design cloud solutions and guide teams in cloud migration.
+473,Frontend Developer,Netflix,"Mountain View, CA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+474,Machine Learning Engineer,Amazon,"Mountain View, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+475,QA Engineer,Adobe,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+476,Cloud Architect,Netflix,"San Francisco, CA",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+477,DevOps Engineer,IBM,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+478,DevOps Engineer,Intel,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+479,Frontend Developer,Facebook,"Chicago, IL",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+480,DevOps Engineer,Adobe,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+481,QA Engineer,IBM,"Redmond, WA",Selenium;JUnit;TestNG;Postman,7,Test and ensure the quality of software applications.
+482,Full Stack Developer,Google,"Cupertino, CA",HTML;CSS;JavaScript;Angular,9,Build dynamic and responsive full-stack web applications.
+483,Backend Developer,Facebook,"Redmond, WA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+484,Cloud Architect,Intel,"Redmond, WA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+485,Data Scientist,Netflix,"Boston, MA",Python;R;Machine Learning;SQL,2,Develop and implement machine learning models for product recommendations.
+486,Mobile App Developer,IBM,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+487,Machine Learning Engineer,IBM,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+488,Backend Developer,Netflix,"Seattle, WA",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+489,Frontend Developer,Apple,"San Francisco, CA",React;JavaScript;TypeScript;CSS,7,Build and maintain user interfaces for web applications.
+490,Cloud Architect,Amazon,"Redmond, WA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+491,Cloud Architect,Salesforce,"Chicago, IL",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+492,Frontend Developer,Microsoft,"Redmond, WA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+493,Senior Software Engineer,IBM,"Seattle, WA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+494,Senior Software Engineer,Facebook,"Mountain View, CA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+495,Cloud Architect,IBM,"San Francisco, CA",Azure;GCP;Networking;Security,4,Design cloud solutions and guide teams in cloud migration.
+496,Backend Developer,Adobe,"Seattle, WA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+497,QA Engineer,Netflix,"Seattle, WA",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+498,Cloud Architect,Microsoft,"Mountain View, CA",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+499,Mobile App Developer,Amazon,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+500,Data Scientist,Intel,"Cupertino, CA",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+501,Backend Developer,Microsoft,"Redmond, WA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+502,Machine Learning Engineer,Microsoft,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+503,Data Scientist,Facebook,"San Francisco, CA",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+504,Backend Developer,Facebook,"Cupertino, CA",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+505,QA Engineer,Intel,"Seattle, WA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+506,Machine Learning Engineer,Netflix,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+507,Frontend Developer,Apple,"Mountain View, CA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+508,Senior Software Engineer,IBM,"Chicago, IL",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+509,Frontend Developer,Intel,"Redmond, WA",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+510,Frontend Developer,Intel,"Austin, TX",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+511,Senior Software Engineer,Apple,"New York, NY",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+512,Senior Software Engineer,Intel,"Chicago, IL",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+513,Data Scientist,Intel,"Seattle, WA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+514,QA Engineer,Apple,"Boston, MA",Selenium;JUnit;TestNG;Postman,1,Test and ensure the quality of software applications.
+515,Senior Software Engineer,Facebook,"Seattle, WA",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+516,Machine Learning Engineer,Netflix,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+517,QA Engineer,Amazon,"Austin, TX",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+518,DevOps Engineer,Adobe,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+519,Machine Learning Engineer,Netflix,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+520,Mobile App Developer,Google,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+521,Data Scientist,Netflix,"Cupertino, CA",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+522,Data Scientist,Netflix,"San Francisco, CA",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+523,Mobile App Developer,IBM,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+524,Frontend Developer,Netflix,"Mountain View, CA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+525,Mobile App Developer,Intel,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+526,Data Scientist,Amazon,"New York, NY",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+527,Backend Developer,Netflix,"Chicago, IL",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+528,Data Scientist,Netflix,"Chicago, IL",Python;R;Machine Learning;SQL,7,Develop and implement machine learning models for product recommendations.
+529,Machine Learning Engineer,Intel,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,7,Apply deep learning to real-world data problems.
+530,Machine Learning Engineer,Microsoft,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+531,Cloud Architect,Apple,"San Francisco, CA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+532,Mobile App Developer,Adobe,"Austin, TX",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+533,Mobile App Developer,Adobe,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+534,Frontend Developer,Microsoft,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+535,Data Scientist,Adobe,"Redmond, WA",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+536,QA Engineer,Adobe,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+537,Data Scientist,IBM,"San Francisco, CA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+538,Senior Software Engineer,Intel,"San Francisco, CA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+539,Cloud Architect,Microsoft,"Menlo Park, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+540,Backend Developer,Netflix,"Austin, TX",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+541,Cloud Architect,Netflix,"Cupertino, CA",Azure;GCP;Networking;Security,4,Design cloud solutions and guide teams in cloud migration.
+542,QA Engineer,Microsoft,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+543,Senior Software Engineer,Facebook,"Menlo Park, CA",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+544,Senior Software Engineer,Google,"Cupertino, CA",Python;Java;Cloud;Microservices,10,Lead the development of scalable cloud infrastructure and microservices architecture.
+545,Senior Software Engineer,Microsoft,"Menlo Park, CA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+546,Data Scientist,Apple,"Boston, MA",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+547,DevOps Engineer,Google,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+548,Frontend Developer,Amazon,"Cupertino, CA",React;JavaScript;TypeScript;CSS,1,Build and maintain user interfaces for web applications.
+549,Cloud Architect,Amazon,"Seattle, WA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+550,Machine Learning Engineer,Facebook,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+551,DevOps Engineer,Apple,"Mountain View, CA",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+552,Machine Learning Engineer,Intel,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+553,Machine Learning Engineer,Apple,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+554,QA Engineer,Microsoft,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+555,Backend Developer,Amazon,"Boston, MA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+556,Data Scientist,Netflix,"Chicago, IL",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+557,Senior Software Engineer,IBM,"Boston, MA",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+558,Cloud Architect,Apple,"Boston, MA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+559,Cloud Architect,Salesforce,"San Francisco, CA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+560,Senior Software Engineer,Adobe,"Menlo Park, CA",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+561,Data Scientist,Amazon,"San Francisco, CA",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+562,Data Scientist,Apple,"Redmond, WA",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+563,Data Scientist,Intel,"Austin, TX",Python;R;Machine Learning;SQL,7,Develop and implement machine learning models for product recommendations.
+564,DevOps Engineer,Amazon,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+565,Senior Software Engineer,Amazon,"Chicago, IL",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+566,Mobile App Developer,Amazon,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+567,Full Stack Developer,Apple,"San Francisco, CA",HTML;CSS;JavaScript;Angular,1,Build dynamic and responsive full-stack web applications.
+568,QA Engineer,Adobe,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+569,Mobile App Developer,Microsoft,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+570,Backend Developer,Salesforce,"Austin, TX",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+571,Mobile App Developer,Amazon,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+572,Data Scientist,Salesforce,"San Francisco, CA",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+573,Machine Learning Engineer,Salesforce,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,7,Apply deep learning to real-world data problems.
+574,Machine Learning Engineer,Microsoft,"Mountain View, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+575,Machine Learning Engineer,Adobe,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+576,Senior Software Engineer,Intel,"Cupertino, CA",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+577,Mobile App Developer,Google,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+578,DevOps Engineer,Intel,"Menlo Park, CA",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+579,Mobile App Developer,Microsoft,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+580,Cloud Architect,Microsoft,"Boston, MA",Azure;GCP;Networking;Security,4,Design cloud solutions and guide teams in cloud migration.
+581,Data Scientist,IBM,"New York, NY",Python;R;Machine Learning;SQL,4,Develop and implement machine learning models for product recommendations.
+582,Cloud Architect,Salesforce,"Chicago, IL",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+583,DevOps Engineer,IBM,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+584,Machine Learning Engineer,Salesforce,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+585,Full Stack Developer,Google,"Austin, TX",HTML;CSS;JavaScript;Angular,10,Build dynamic and responsive full-stack web applications.
+586,Senior Software Engineer,Microsoft,"Mountain View, CA",Python;Java;Cloud;Microservices,9,Lead the development of scalable cloud infrastructure and microservices architecture.
+587,Frontend Developer,Google,"Cupertino, CA",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+588,Cloud Architect,Facebook,"Menlo Park, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+589,Full Stack Developer,Facebook,"Chicago, IL",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+590,Frontend Developer,Google,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+591,Full Stack Developer,Google,"Chicago, IL",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+592,Frontend Developer,Facebook,"Chicago, IL",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+593,Frontend Developer,Apple,"San Francisco, CA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+594,Frontend Developer,Intel,"Chicago, IL",React;JavaScript;TypeScript;CSS,1,Build and maintain user interfaces for web applications.
+595,Cloud Architect,Netflix,"Menlo Park, CA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+596,Cloud Architect,Amazon,"Mountain View, CA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+597,QA Engineer,Salesforce,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,7,Test and ensure the quality of software applications.
+598,Backend Developer,Google,"San Francisco, CA",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+599,Cloud Architect,Google,"Seattle, WA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+600,Senior Software Engineer,Netflix,"San Francisco, CA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+601,Machine Learning Engineer,Amazon,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+602,Backend Developer,Google,"New York, NY",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+603,Cloud Architect,Intel,"Seattle, WA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+604,Backend Developer,IBM,"Redmond, WA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+605,Cloud Architect,Intel,"Austin, TX",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+606,Machine Learning Engineer,Facebook,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+607,QA Engineer,Intel,"Chicago, IL",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+608,Full Stack Developer,Salesforce,"New York, NY",HTML;CSS;JavaScript;Angular,4,Build dynamic and responsive full-stack web applications.
+609,Frontend Developer,Apple,"Redmond, WA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+610,Machine Learning Engineer,Netflix,"Mountain View, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+611,Machine Learning Engineer,Amazon,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+612,Frontend Developer,Adobe,"Mountain View, CA",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+613,Full Stack Developer,Facebook,"New York, NY",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+614,Full Stack Developer,Salesforce,"Boston, MA",HTML;CSS;JavaScript;Angular,10,Build dynamic and responsive full-stack web applications.
+615,Backend Developer,Facebook,"Seattle, WA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+616,Cloud Architect,Microsoft,"Menlo Park, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+617,Backend Developer,Amazon,"Chicago, IL",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+618,Full Stack Developer,Salesforce,"New York, NY",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+619,Mobile App Developer,Netflix,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+620,Frontend Developer,Netflix,"Austin, TX",React;JavaScript;TypeScript;CSS,1,Build and maintain user interfaces for web applications.
+621,Machine Learning Engineer,Salesforce,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+622,Senior Software Engineer,Apple,"Mountain View, CA",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+623,Machine Learning Engineer,Facebook,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,7,Apply deep learning to real-world data problems.
+624,QA Engineer,Apple,"Chicago, IL",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+625,Senior Software Engineer,Adobe,"Chicago, IL",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+626,Frontend Developer,Amazon,"San Francisco, CA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+627,Mobile App Developer,Apple,"Austin, TX",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+628,Full Stack Developer,Apple,"San Francisco, CA",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+629,Mobile App Developer,IBM,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+630,Senior Software Engineer,Amazon,"Boston, MA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+631,Frontend Developer,Adobe,"San Francisco, CA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+632,Cloud Architect,Apple,"Cupertino, CA",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+633,Data Scientist,Adobe,"San Francisco, CA",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+634,Frontend Developer,Amazon,"Redmond, WA",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+635,DevOps Engineer,Google,"Mountain View, CA",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+636,QA Engineer,IBM,"New York, NY",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+637,Machine Learning Engineer,Google,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+638,Mobile App Developer,Adobe,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+639,Backend Developer,Apple,"Cupertino, CA",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+640,Mobile App Developer,IBM,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,4,Develop and deploy mobile applications across platforms.
+641,Data Scientist,Adobe,"San Francisco, CA",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+642,Frontend Developer,Salesforce,"Seattle, WA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+643,Cloud Architect,Google,"Boston, MA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+644,Mobile App Developer,Intel,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+645,Data Scientist,Apple,"Redmond, WA",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+646,Data Scientist,Salesforce,"Seattle, WA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+647,Data Scientist,Adobe,"Chicago, IL",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+648,DevOps Engineer,Google,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+649,Frontend Developer,Intel,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+650,Senior Software Engineer,Salesforce,"Chicago, IL",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+651,Backend Developer,Facebook,"San Francisco, CA",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+652,QA Engineer,Adobe,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+653,Frontend Developer,Google,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+654,Full Stack Developer,Intel,"New York, NY",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+655,Cloud Architect,Facebook,"Redmond, WA",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+656,Data Scientist,Salesforce,"Seattle, WA",Python;R;Machine Learning;SQL,7,Develop and implement machine learning models for product recommendations.
+657,Senior Software Engineer,Microsoft,"Austin, TX",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+658,Backend Developer,Salesforce,"Cupertino, CA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+659,QA Engineer,IBM,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+660,Backend Developer,Facebook,"Mountain View, CA",Node.js;Express;MongoDB;Docker,4,Design and maintain backend APIs and services.
+661,Cloud Architect,IBM,"New York, NY",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+662,Machine Learning Engineer,Intel,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+663,Machine Learning Engineer,Facebook,"Cupertino, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+664,Mobile App Developer,Microsoft,"New York, NY",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+665,Mobile App Developer,Intel,"New York, NY",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+666,Senior Software Engineer,Salesforce,"Menlo Park, CA",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+667,Full Stack Developer,IBM,"Menlo Park, CA",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+668,Backend Developer,Facebook,"San Francisco, CA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+669,Data Scientist,Adobe,"Redmond, WA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+670,Data Scientist,Apple,"Chicago, IL",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+671,Senior Software Engineer,Google,"New York, NY",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+672,Backend Developer,Netflix,"Redmond, WA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+673,DevOps Engineer,Netflix,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+674,Full Stack Developer,Salesforce,"Austin, TX",HTML;CSS;JavaScript;Angular,9,Build dynamic and responsive full-stack web applications.
+675,Backend Developer,Facebook,"Boston, MA",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+676,Frontend Developer,Facebook,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+677,Backend Developer,IBM,"Austin, TX",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+678,Cloud Architect,IBM,"Mountain View, CA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+679,Backend Developer,Google,"Austin, TX",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+680,QA Engineer,Intel,"Chicago, IL",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+681,QA Engineer,Adobe,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+682,Cloud Architect,Adobe,"San Francisco, CA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+683,Cloud Architect,Adobe,"Redmond, WA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+684,Machine Learning Engineer,IBM,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+685,Backend Developer,IBM,"Mountain View, CA",Node.js;Express;MongoDB;Docker,5,Design and maintain backend APIs and services.
+686,Backend Developer,Microsoft,"Boston, MA",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+687,DevOps Engineer,Microsoft,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+688,Backend Developer,Google,"Boston, MA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+689,Data Scientist,Google,"Austin, TX",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+690,Senior Software Engineer,Adobe,"New York, NY",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+691,Backend Developer,Microsoft,"Mountain View, CA",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+692,Full Stack Developer,Adobe,"Cupertino, CA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+693,DevOps Engineer,Microsoft,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+694,Full Stack Developer,Adobe,"Redmond, WA",HTML;CSS;JavaScript;Angular,10,Build dynamic and responsive full-stack web applications.
+695,Data Scientist,IBM,"Seattle, WA",Python;R;Machine Learning;SQL,2,Develop and implement machine learning models for product recommendations.
+696,Mobile App Developer,Facebook,"Boston, MA",Swift;Kotlin;Flutter;Firebase,4,Develop and deploy mobile applications across platforms.
+697,Backend Developer,Salesforce,"Mountain View, CA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+698,Mobile App Developer,Salesforce,"Austin, TX",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+699,Machine Learning Engineer,Facebook,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+700,Full Stack Developer,Microsoft,"Cupertino, CA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+701,Frontend Developer,Amazon,"San Francisco, CA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+702,Mobile App Developer,Facebook,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+703,Mobile App Developer,Microsoft,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+704,Frontend Developer,Intel,"Chicago, IL",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+705,Mobile App Developer,Facebook,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+706,DevOps Engineer,Google,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+707,Full Stack Developer,IBM,"San Francisco, CA",HTML;CSS;JavaScript;Angular,9,Build dynamic and responsive full-stack web applications.
+708,QA Engineer,Adobe,"Austin, TX",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+709,QA Engineer,Salesforce,"Boston, MA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+710,Full Stack Developer,Netflix,"New York, NY",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+711,Backend Developer,Facebook,"New York, NY",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+712,Cloud Architect,Microsoft,"Seattle, WA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+713,Machine Learning Engineer,Amazon,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+714,Mobile App Developer,IBM,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+715,Full Stack Developer,Facebook,"San Francisco, CA",HTML;CSS;JavaScript;Angular,4,Build dynamic and responsive full-stack web applications.
+716,Full Stack Developer,Apple,"Seattle, WA",HTML;CSS;JavaScript;Angular,1,Build dynamic and responsive full-stack web applications.
+717,Frontend Developer,Facebook,"Mountain View, CA",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+718,Full Stack Developer,Netflix,"Seattle, WA",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+719,QA Engineer,Google,"New York, NY",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+720,DevOps Engineer,Intel,"Austin, TX",Kubernetes;Terraform;AWS;CI/CD,6,Automate infrastructure and deployment pipelines.
+721,Mobile App Developer,Apple,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+722,Data Scientist,Facebook,"San Francisco, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+723,Senior Software Engineer,Adobe,"San Francisco, CA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+724,Cloud Architect,Facebook,"Seattle, WA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+725,Machine Learning Engineer,Netflix,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+726,Frontend Developer,Intel,"Seattle, WA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+727,Frontend Developer,Netflix,"Chicago, IL",React;JavaScript;TypeScript;CSS,7,Build and maintain user interfaces for web applications.
+728,Cloud Architect,Adobe,"Menlo Park, CA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+729,Backend Developer,Microsoft,"Austin, TX",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+730,Machine Learning Engineer,Intel,"San Francisco, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+731,Data Scientist,Google,"Redmond, WA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+732,Senior Software Engineer,Salesforce,"Redmond, WA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+733,Frontend Developer,Apple,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+734,Senior Software Engineer,Apple,"Austin, TX",Python;Java;Cloud;Microservices,3,Lead the development of scalable cloud infrastructure and microservices architecture.
+735,Cloud Architect,Netflix,"Seattle, WA",Azure;GCP;Networking;Security,4,Design cloud solutions and guide teams in cloud migration.
+736,Mobile App Developer,Facebook,"Boston, MA",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+737,Senior Software Engineer,Apple,"New York, NY",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+738,Senior Software Engineer,Microsoft,"Seattle, WA",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+739,Cloud Architect,IBM,"San Francisco, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+740,Data Scientist,Amazon,"Menlo Park, CA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+741,Mobile App Developer,Facebook,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,10,Develop and deploy mobile applications across platforms.
+742,Backend Developer,Microsoft,"Boston, MA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+743,Cloud Architect,Adobe,"Chicago, IL",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+744,Full Stack Developer,Amazon,"Mountain View, CA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+745,Senior Software Engineer,Intel,"Menlo Park, CA",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+746,QA Engineer,Microsoft,"Cupertino, CA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+747,QA Engineer,Microsoft,"Seattle, WA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+748,Data Scientist,Adobe,"San Francisco, CA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+749,Backend Developer,Apple,"Chicago, IL",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+750,Senior Software Engineer,IBM,"Seattle, WA",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+751,DevOps Engineer,IBM,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+752,Senior Software Engineer,Adobe,"Boston, MA",Python;Java;Cloud;Microservices,10,Lead the development of scalable cloud infrastructure and microservices architecture.
+753,Full Stack Developer,Adobe,"Austin, TX",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+754,Mobile App Developer,Amazon,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,1,Develop and deploy mobile applications across platforms.
+755,Cloud Architect,Netflix,"Boston, MA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+756,QA Engineer,Netflix,"Seattle, WA",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+757,Backend Developer,Amazon,"Chicago, IL",Node.js;Express;MongoDB;Docker,10,Design and maintain backend APIs and services.
+758,Frontend Developer,Salesforce,"Redmond, WA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+759,Frontend Developer,Facebook,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,1,Build and maintain user interfaces for web applications.
+760,Backend Developer,Apple,"Boston, MA",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+761,Machine Learning Engineer,Adobe,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+762,Machine Learning Engineer,Salesforce,"Cupertino, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+763,Frontend Developer,Netflix,"Seattle, WA",React;JavaScript;TypeScript;CSS,8,Build and maintain user interfaces for web applications.
+764,Mobile App Developer,Salesforce,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+765,Backend Developer,Apple,"Redmond, WA",Node.js;Express;MongoDB;Docker,10,Design and maintain backend APIs and services.
+766,Machine Learning Engineer,Amazon,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+767,DevOps Engineer,Salesforce,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,3,Automate infrastructure and deployment pipelines.
+768,Backend Developer,Amazon,"Redmond, WA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+769,DevOps Engineer,Adobe,"San Francisco, CA",Kubernetes;Terraform;AWS;CI/CD,6,Automate infrastructure and deployment pipelines.
+770,Cloud Architect,Salesforce,"Seattle, WA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+771,QA Engineer,Google,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,7,Test and ensure the quality of software applications.
+772,Full Stack Developer,Microsoft,"Chicago, IL",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+773,Mobile App Developer,Intel,"Boston, MA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+774,Frontend Developer,Microsoft,"Cupertino, CA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+775,Frontend Developer,Netflix,"Menlo Park, CA",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+776,Machine Learning Engineer,Apple,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+777,QA Engineer,Adobe,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,4,Test and ensure the quality of software applications.
+778,Full Stack Developer,Apple,"Seattle, WA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+779,DevOps Engineer,Facebook,"Chicago, IL",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+780,Full Stack Developer,IBM,"Redmond, WA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+781,Backend Developer,Netflix,"San Francisco, CA",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+782,Mobile App Developer,Intel,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+783,QA Engineer,Amazon,"Austin, TX",Selenium;JUnit;TestNG;Postman,7,Test and ensure the quality of software applications.
+784,Full Stack Developer,Microsoft,"San Francisco, CA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+785,Mobile App Developer,Intel,"Austin, TX",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+786,Machine Learning Engineer,IBM,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+787,Data Scientist,IBM,"Mountain View, CA",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+788,Mobile App Developer,Microsoft,"Boston, MA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+789,DevOps Engineer,Microsoft,"Austin, TX",Kubernetes;Terraform;AWS;CI/CD,4,Automate infrastructure and deployment pipelines.
+790,Data Scientist,Apple,"Chicago, IL",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+791,Machine Learning Engineer,IBM,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+792,Frontend Developer,Microsoft,"Austin, TX",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+793,Mobile App Developer,Intel,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,1,Develop and deploy mobile applications across platforms.
+794,Data Scientist,IBM,"New York, NY",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+795,Full Stack Developer,Facebook,"Seattle, WA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+796,Cloud Architect,Amazon,"San Francisco, CA",Azure;GCP;Networking;Security,3,Design cloud solutions and guide teams in cloud migration.
+797,Full Stack Developer,Google,"San Francisco, CA",HTML;CSS;JavaScript;Angular,9,Build dynamic and responsive full-stack web applications.
+798,Backend Developer,Intel,"Mountain View, CA",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+799,Mobile App Developer,Apple,"Mountain View, CA",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+800,Data Scientist,Facebook,"Austin, TX",Python;R;Machine Learning;SQL,4,Develop and implement machine learning models for product recommendations.
+801,Full Stack Developer,Facebook,"Seattle, WA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+802,Full Stack Developer,Apple,"Boston, MA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+803,Full Stack Developer,Facebook,"Cupertino, CA",HTML;CSS;JavaScript;Angular,4,Build dynamic and responsive full-stack web applications.
+804,Machine Learning Engineer,Apple,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+805,Cloud Architect,Facebook,"Menlo Park, CA",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+806,QA Engineer,Google,"Chicago, IL",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+807,Senior Software Engineer,Netflix,"Seattle, WA",Python;Java;Cloud;Microservices,2,Lead the development of scalable cloud infrastructure and microservices architecture.
+808,Backend Developer,Intel,"Boston, MA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+809,Mobile App Developer,Google,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+810,Cloud Architect,Intel,"Austin, TX",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+811,Backend Developer,Amazon,"Austin, TX",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+812,DevOps Engineer,Microsoft,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,1,Automate infrastructure and deployment pipelines.
+813,Frontend Developer,Apple,"San Francisco, CA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+814,QA Engineer,Microsoft,"Seattle, WA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+815,Machine Learning Engineer,Salesforce,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+816,Backend Developer,Intel,"New York, NY",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+817,DevOps Engineer,Amazon,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,5,Automate infrastructure and deployment pipelines.
+818,Data Scientist,Adobe,"Menlo Park, CA",Python;R;Machine Learning;SQL,2,Develop and implement machine learning models for product recommendations.
+819,Machine Learning Engineer,Amazon,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,8,Apply deep learning to real-world data problems.
+820,Backend Developer,Amazon,"Austin, TX",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+821,Full Stack Developer,Facebook,"Chicago, IL",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+822,DevOps Engineer,Microsoft,"New York, NY",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+823,Backend Developer,Amazon,"Redmond, WA",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+824,Frontend Developer,Google,"Cupertino, CA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+825,Frontend Developer,Google,"Chicago, IL",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+826,Machine Learning Engineer,Microsoft,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+827,DevOps Engineer,Intel,"Austin, TX",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+828,Cloud Architect,Intel,"New York, NY",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+829,QA Engineer,Microsoft,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+830,QA Engineer,Microsoft,"Mountain View, CA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+831,DevOps Engineer,Adobe,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+832,QA Engineer,Amazon,"Boston, MA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+833,Backend Developer,Google,"New York, NY",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+834,Frontend Developer,IBM,"Chicago, IL",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+835,Full Stack Developer,Intel,"Mountain View, CA",HTML;CSS;JavaScript;Angular,3,Build dynamic and responsive full-stack web applications.
+836,Frontend Developer,Netflix,"New York, NY",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+837,Data Scientist,Salesforce,"New York, NY",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+838,Mobile App Developer,Netflix,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,1,Develop and deploy mobile applications across platforms.
+839,Frontend Developer,Salesforce,"Redmond, WA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+840,Senior Software Engineer,Intel,"New York, NY",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+841,Cloud Architect,Netflix,"Boston, MA",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+842,Frontend Developer,Microsoft,"Redmond, WA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+843,DevOps Engineer,Google,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,4,Automate infrastructure and deployment pipelines.
+844,Mobile App Developer,Adobe,"Austin, TX",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+845,Mobile App Developer,Amazon,"Austin, TX",Swift;Kotlin;Flutter;Firebase,1,Develop and deploy mobile applications across platforms.
+846,Cloud Architect,Facebook,"New York, NY",Azure;GCP;Networking;Security,8,Design cloud solutions and guide teams in cloud migration.
+847,Mobile App Developer,Salesforce,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,6,Develop and deploy mobile applications across platforms.
+848,Senior Software Engineer,Apple,"Mountain View, CA",Python;Java;Cloud;Microservices,10,Lead the development of scalable cloud infrastructure and microservices architecture.
+849,DevOps Engineer,Apple,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+850,Full Stack Developer,Adobe,"San Francisco, CA",HTML;CSS;JavaScript;Angular,1,Build dynamic and responsive full-stack web applications.
+851,QA Engineer,Intel,"Redmond, WA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+852,Backend Developer,Apple,"New York, NY",Node.js;Express;MongoDB;Docker,8,Design and maintain backend APIs and services.
+853,Machine Learning Engineer,Apple,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,2,Apply deep learning to real-world data problems.
+854,Mobile App Developer,Adobe,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+855,Data Scientist,Netflix,"Menlo Park, CA",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+856,Full Stack Developer,Facebook,"New York, NY",HTML;CSS;JavaScript;Angular,3,Build dynamic and responsive full-stack web applications.
+857,Cloud Architect,Microsoft,"Austin, TX",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+858,QA Engineer,Netflix,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,6,Test and ensure the quality of software applications.
+859,Frontend Developer,Netflix,"Mountain View, CA",React;JavaScript;TypeScript;CSS,7,Build and maintain user interfaces for web applications.
+860,Senior Software Engineer,Salesforce,"Austin, TX",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+861,Senior Software Engineer,Microsoft,"New York, NY",Python;Java;Cloud;Microservices,3,Lead the development of scalable cloud infrastructure and microservices architecture.
+862,Data Scientist,Salesforce,"Austin, TX",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+863,Cloud Architect,Amazon,"San Francisco, CA",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+864,Data Scientist,Apple,"Seattle, WA",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+865,Machine Learning Engineer,Adobe,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+866,QA Engineer,Google,"Seattle, WA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+867,Cloud Architect,Netflix,"New York, NY",Azure;GCP;Networking;Security,5,Design cloud solutions and guide teams in cloud migration.
+868,Cloud Architect,Microsoft,"Mountain View, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+869,Frontend Developer,Netflix,"Boston, MA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+870,Cloud Architect,IBM,"Redmond, WA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+871,Data Scientist,Google,"Austin, TX",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+872,Data Scientist,Facebook,"Redmond, WA",Python;R;Machine Learning;SQL,1,Develop and implement machine learning models for product recommendations.
+873,QA Engineer,Facebook,"New York, NY",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+874,Cloud Architect,Apple,"Seattle, WA",Azure;GCP;Networking;Security,7,Design cloud solutions and guide teams in cloud migration.
+875,Frontend Developer,IBM,"Seattle, WA",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+876,Machine Learning Engineer,Salesforce,"Cupertino, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+877,Full Stack Developer,Microsoft,"Redmond, WA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+878,Data Scientist,Salesforce,"New York, NY",Python;R;Machine Learning;SQL,5,Develop and implement machine learning models for product recommendations.
+879,Data Scientist,Salesforce,"San Francisco, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+880,Backend Developer,Microsoft,"San Francisco, CA",Node.js;Express;MongoDB;Docker,4,Design and maintain backend APIs and services.
+881,Backend Developer,Microsoft,"Redmond, WA",Node.js;Express;MongoDB;Docker,7,Design and maintain backend APIs and services.
+882,Backend Developer,Salesforce,"Boston, MA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+883,Data Scientist,Microsoft,"Austin, TX",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+884,Full Stack Developer,Adobe,"San Francisco, CA",HTML;CSS;JavaScript;Angular,3,Build dynamic and responsive full-stack web applications.
+885,Frontend Developer,Intel,"Chicago, IL",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+886,DevOps Engineer,Amazon,"Seattle, WA",Kubernetes;Terraform;AWS;CI/CD,2,Automate infrastructure and deployment pipelines.
+887,Senior Software Engineer,Netflix,"Chicago, IL",Python;Java;Cloud;Microservices,7,Lead the development of scalable cloud infrastructure and microservices architecture.
+888,QA Engineer,Microsoft,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+889,Data Scientist,IBM,"Cupertino, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+890,Machine Learning Engineer,IBM,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+891,QA Engineer,Microsoft,"Seattle, WA",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+892,Cloud Architect,Apple,"Boston, MA",Azure;GCP;Networking;Security,2,Design cloud solutions and guide teams in cloud migration.
+893,Mobile App Developer,Facebook,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+894,Senior Software Engineer,Netflix,"San Francisco, CA",Python;Java;Cloud;Microservices,4,Lead the development of scalable cloud infrastructure and microservices architecture.
+895,Cloud Architect,Salesforce,"Seattle, WA",Azure;GCP;Networking;Security,4,Design cloud solutions and guide teams in cloud migration.
+896,DevOps Engineer,Salesforce,"Chicago, IL",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+897,QA Engineer,Apple,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,3,Test and ensure the quality of software applications.
+898,Frontend Developer,Intel,"Redmond, WA",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+899,Backend Developer,Intel,"Austin, TX",Node.js;Express;MongoDB;Docker,10,Design and maintain backend APIs and services.
+900,QA Engineer,Apple,"New York, NY",Selenium;JUnit;TestNG;Postman,7,Test and ensure the quality of software applications.
+901,Senior Software Engineer,Adobe,"Seattle, WA",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+902,QA Engineer,Salesforce,"Boston, MA",Selenium;JUnit;TestNG;Postman,2,Test and ensure the quality of software applications.
+903,Mobile App Developer,Facebook,"Cupertino, CA",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+904,Mobile App Developer,Salesforce,"Boston, MA",Swift;Kotlin;Flutter;Firebase,5,Develop and deploy mobile applications across platforms.
+905,DevOps Engineer,Apple,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,10,Automate infrastructure and deployment pipelines.
+906,Backend Developer,Netflix,"Chicago, IL",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+907,Machine Learning Engineer,Google,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,6,Apply deep learning to real-world data problems.
+908,QA Engineer,Intel,"New York, NY",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+909,Frontend Developer,Salesforce,"San Francisco, CA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+910,Backend Developer,Apple,"Menlo Park, CA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+911,Backend Developer,Salesforce,"Chicago, IL",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+912,Cloud Architect,Intel,"Menlo Park, CA",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+913,Mobile App Developer,Salesforce,"San Francisco, CA",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+914,DevOps Engineer,Microsoft,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,4,Automate infrastructure and deployment pipelines.
+915,Full Stack Developer,Microsoft,"Redmond, WA",HTML;CSS;JavaScript;Angular,8,Build dynamic and responsive full-stack web applications.
+916,Backend Developer,Apple,"Redmond, WA",Node.js;Express;MongoDB;Docker,1,Design and maintain backend APIs and services.
+917,Senior Software Engineer,IBM,"Chicago, IL",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+918,Senior Software Engineer,Netflix,"Redmond, WA",Python;Java;Cloud;Microservices,1,Lead the development of scalable cloud infrastructure and microservices architecture.
+919,Mobile App Developer,IBM,"Austin, TX",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+920,Cloud Architect,IBM,"Seattle, WA",Azure;GCP;Networking;Security,9,Design cloud solutions and guide teams in cloud migration.
+921,Mobile App Developer,Netflix,"Chicago, IL",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+922,Mobile App Developer,Amazon,"San Francisco, CA",Swift;Kotlin;Flutter;Firebase,2,Develop and deploy mobile applications across platforms.
+923,DevOps Engineer,IBM,"Mountain View, CA",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+924,DevOps Engineer,Intel,"Menlo Park, CA",Kubernetes;Terraform;AWS;CI/CD,5,Automate infrastructure and deployment pipelines.
+925,DevOps Engineer,Facebook,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,6,Automate infrastructure and deployment pipelines.
+926,Machine Learning Engineer,Netflix,"Menlo Park, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,10,Apply deep learning to real-world data problems.
+927,Machine Learning Engineer,Salesforce,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+928,Senior Software Engineer,Netflix,"Mountain View, CA",Python;Java;Cloud;Microservices,6,Lead the development of scalable cloud infrastructure and microservices architecture.
+929,Mobile App Developer,Amazon,"New York, NY",Swift;Kotlin;Flutter;Firebase,9,Develop and deploy mobile applications across platforms.
+930,Frontend Developer,Salesforce,"Boston, MA",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+931,Full Stack Developer,Intel,"Cupertino, CA",HTML;CSS;JavaScript;Angular,1,Build dynamic and responsive full-stack web applications.
+932,Data Scientist,Salesforce,"Boston, MA",Python;R;Machine Learning;SQL,9,Develop and implement machine learning models for product recommendations.
+933,Full Stack Developer,Amazon,"Mountain View, CA",HTML;CSS;JavaScript;Angular,7,Build dynamic and responsive full-stack web applications.
+934,Data Scientist,Netflix,"San Francisco, CA",Python;R;Machine Learning;SQL,7,Develop and implement machine learning models for product recommendations.
+935,Cloud Architect,Netflix,"Austin, TX",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+936,Backend Developer,Salesforce,"Mountain View, CA",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+937,Machine Learning Engineer,Apple,"New York, NY",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+938,Data Scientist,Intel,"Seattle, WA",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+939,Senior Software Engineer,Apple,"New York, NY",Python;Java;Cloud;Microservices,5,Lead the development of scalable cloud infrastructure and microservices architecture.
+940,QA Engineer,Intel,"Seattle, WA",Selenium;JUnit;TestNG;Postman,5,Test and ensure the quality of software applications.
+941,Data Scientist,Microsoft,"Mountain View, CA",Python;R;Machine Learning;SQL,4,Develop and implement machine learning models for product recommendations.
+942,Frontend Developer,Amazon,"Chicago, IL",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+943,Machine Learning Engineer,Microsoft,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+944,Full Stack Developer,Intel,"Chicago, IL",HTML;CSS;JavaScript;Angular,9,Build dynamic and responsive full-stack web applications.
+945,DevOps Engineer,Amazon,"Redmond, WA",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+946,DevOps Engineer,Facebook,"Chicago, IL",Kubernetes;Terraform;AWS;CI/CD,4,Automate infrastructure and deployment pipelines.
+947,Full Stack Developer,Adobe,"Austin, TX",HTML;CSS;JavaScript;Angular,2,Build dynamic and responsive full-stack web applications.
+948,DevOps Engineer,Intel,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,9,Automate infrastructure and deployment pipelines.
+949,Cloud Architect,Facebook,"San Francisco, CA",Azure;GCP;Networking;Security,1,Design cloud solutions and guide teams in cloud migration.
+950,QA Engineer,Intel,"Austin, TX",Selenium;JUnit;TestNG;Postman,8,Test and ensure the quality of software applications.
+951,Machine Learning Engineer,Netflix,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,5,Apply deep learning to real-world data problems.
+952,DevOps Engineer,Google,"Boston, MA",Kubernetes;Terraform;AWS;CI/CD,4,Automate infrastructure and deployment pipelines.
+953,Data Scientist,Salesforce,"Chicago, IL",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+954,Cloud Architect,IBM,"Austin, TX",Azure;GCP;Networking;Security,4,Design cloud solutions and guide teams in cloud migration.
+955,Full Stack Developer,Apple,"New York, NY",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+956,Machine Learning Engineer,IBM,"Mountain View, CA",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+957,Backend Developer,Salesforce,"Cupertino, CA",Node.js;Express;MongoDB;Docker,4,Design and maintain backend APIs and services.
+958,QA Engineer,IBM,"Menlo Park, CA",Selenium;JUnit;TestNG;Postman,9,Test and ensure the quality of software applications.
+959,Machine Learning Engineer,Apple,"Chicago, IL",TensorFlow;PyTorch;Data Analysis;Deep Learning,9,Apply deep learning to real-world data problems.
+960,Machine Learning Engineer,Amazon,"Seattle, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,3,Apply deep learning to real-world data problems.
+961,Cloud Architect,Amazon,"Chicago, IL",Azure;GCP;Networking;Security,6,Design cloud solutions and guide teams in cloud migration.
+962,Frontend Developer,Amazon,"Cupertino, CA",React;JavaScript;TypeScript;CSS,10,Build and maintain user interfaces for web applications.
+963,Full Stack Developer,Google,"Seattle, WA",HTML;CSS;JavaScript;Angular,5,Build dynamic and responsive full-stack web applications.
+964,Senior Software Engineer,IBM,"Redmond, WA",Python;Java;Cloud;Microservices,8,Lead the development of scalable cloud infrastructure and microservices architecture.
+965,Mobile App Developer,Intel,"Seattle, WA",Swift;Kotlin;Flutter;Firebase,7,Develop and deploy mobile applications across platforms.
+966,Backend Developer,IBM,"Redmond, WA",Node.js;Express;MongoDB;Docker,6,Design and maintain backend APIs and services.
+967,Data Scientist,Google,"Austin, TX",Python;R;Machine Learning;SQL,8,Develop and implement machine learning models for product recommendations.
+968,Machine Learning Engineer,Facebook,"Redmond, WA",TensorFlow;PyTorch;Data Analysis;Deep Learning,1,Apply deep learning to real-world data problems.
+969,Frontend Developer,Google,"Boston, MA",React;JavaScript;TypeScript;CSS,3,Build and maintain user interfaces for web applications.
+970,Mobile App Developer,Facebook,"Redmond, WA",Swift;Kotlin;Flutter;Firebase,8,Develop and deploy mobile applications across platforms.
+971,DevOps Engineer,Amazon,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,5,Automate infrastructure and deployment pipelines.
+972,Full Stack Developer,Netflix,"San Francisco, CA",HTML;CSS;JavaScript;Angular,3,Build dynamic and responsive full-stack web applications.
+973,Frontend Developer,Adobe,"Austin, TX",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+974,Frontend Developer,Netflix,"Cupertino, CA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+975,Backend Developer,Netflix,"Boston, MA",Node.js;Express;MongoDB;Docker,3,Design and maintain backend APIs and services.
+976,Data Scientist,Apple,"Redmond, WA",Python;R;Machine Learning;SQL,10,Develop and implement machine learning models for product recommendations.
+977,Backend Developer,Microsoft,"New York, NY",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+978,Backend Developer,Netflix,"Redmond, WA",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+979,Machine Learning Engineer,Amazon,"Austin, TX",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+980,Data Scientist,Google,"Cupertino, CA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+981,Frontend Developer,Apple,"Redmond, WA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+982,Mobile App Developer,Microsoft,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,4,Develop and deploy mobile applications across platforms.
+983,Frontend Developer,Adobe,"Seattle, WA",React;JavaScript;TypeScript;CSS,4,Build and maintain user interfaces for web applications.
+984,QA Engineer,IBM,"San Francisco, CA",Selenium;JUnit;TestNG;Postman,10,Test and ensure the quality of software applications.
+985,Backend Developer,Google,"Seattle, WA",Node.js;Express;MongoDB;Docker,10,Design and maintain backend APIs and services.
+986,Frontend Developer,Salesforce,"San Francisco, CA",React;JavaScript;TypeScript;CSS,2,Build and maintain user interfaces for web applications.
+987,DevOps Engineer,IBM,"Cupertino, CA",Kubernetes;Terraform;AWS;CI/CD,7,Automate infrastructure and deployment pipelines.
+988,Frontend Developer,Adobe,"Chicago, IL",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+989,Frontend Developer,Adobe,"Chicago, IL",React;JavaScript;TypeScript;CSS,6,Build and maintain user interfaces for web applications.
+990,DevOps Engineer,Apple,"Chicago, IL",Kubernetes;Terraform;AWS;CI/CD,8,Automate infrastructure and deployment pipelines.
+991,Backend Developer,Salesforce,"Austin, TX",Node.js;Express;MongoDB;Docker,2,Design and maintain backend APIs and services.
+992,Data Scientist,Microsoft,"Boston, MA",Python;R;Machine Learning;SQL,6,Develop and implement machine learning models for product recommendations.
+993,Backend Developer,Intel,"Austin, TX",Node.js;Express;MongoDB;Docker,9,Design and maintain backend APIs and services.
+994,Cloud Architect,Google,"Cupertino, CA",Azure;GCP;Networking;Security,10,Design cloud solutions and guide teams in cloud migration.
+995,Data Scientist,Apple,"Boston, MA",Python;R;Machine Learning;SQL,3,Develop and implement machine learning models for product recommendations.
+996,Full Stack Developer,Google,"Redmond, WA",HTML;CSS;JavaScript;Angular,6,Build dynamic and responsive full-stack web applications.
+997,Mobile App Developer,Facebook,"Menlo Park, CA",Swift;Kotlin;Flutter;Firebase,3,Develop and deploy mobile applications across platforms.
+998,Frontend Developer,Amazon,"San Francisco, CA",React;JavaScript;TypeScript;CSS,5,Build and maintain user interfaces for web applications.
+999,Frontend Developer,Adobe,"Boston, MA",React;JavaScript;TypeScript;CSS,9,Build and maintain user interfaces for web applications.
+1000,Machine Learning Engineer,Salesforce,"Boston, MA",TensorFlow;PyTorch;Data Analysis;Deep Learning,4,Apply deep learning to real-world data problems.
+1001,Senior Software Engineer,Google,Mountain View, CA,"Python;Java;Cloud;Microservices",5,"Lead the development of scalable cloud infrastructure and microservices architecture."
+1002,Frontend Developer,Facebook,Menlo Park, CA,"React;JavaScript;TypeScript;CSS",3,"Build and maintain user interfaces for Facebook's web applications."
+1003,Data Scientist,Amazon,Seattle, WA,"Python;R;Machine Learning;SQL",4,"Develop and implement machine learning models for product recommendations."
+1004,DevOps Engineer,Microsoft,Redmond, WA,"Docker;Kubernetes;AWS;CI/CD",4,"Manage cloud infrastructure and implement CI/CD pipelines."
+1005,Product Manager,Apple,Cupertino, CA,"Product Strategy;Agile;User Research;Analytics",5,"Lead product development and strategy for Apple's software products."
+1006,UX Designer,Adobe,San Jose, CA,"Figma;User Research;Prototyping;Design Systems",3,"Design user experiences for Adobe's creative software suite."
+1007,Backend Developer,Netflix,Los Gatos, CA,"Java;Spring;Microservices;NoSQL",4,"Develop and maintain Netflix's backend services and APIs."
+1008,AI Research Scientist,OpenAI,San Francisco, CA,"Python;TensorFlow;PyTorch;NLP",6,"Research and develop cutting-edge AI models and algorithms."
+1009,Mobile Developer,Twitter,San Francisco, CA,"Swift;Kotlin;iOS;Android",3,"Build and maintain Twitter's mobile applications."
+1010,Cloud Architect,AWS,Seattle, WA,"AWS;Terraform;Kubernetes;Security",7,"Design and implement cloud infrastructure solutions."
+1011,Full Stack Developer,LinkedIn,Sunnyvale, CA,"React;Node.js;Python;MongoDB",4,"Develop full-stack applications for LinkedIn's professional network."
+1012,Data Engineer,Uber,San Francisco, CA,"Python;Spark;Airflow;Big Data",4,"Build and maintain data pipelines for Uber's analytics platform."
+1013,Cybersecurity Engineer,Palantir,Denver, CO,"Security;Python;Networking;Linux",5,"Implement and maintain security infrastructure."
+1014,Game Developer,Epic Games,Cary, NC,"C++;Unreal Engine;3D Graphics;Game Physics",4,"Develop games using Unreal Engine."
+1015,Blockchain Developer,Coinbase,San Francisco, CA,"Solidity;Ethereum;Web3;Smart Contracts",3,"Develop blockchain applications and smart contracts."
+1016,QA Engineer,Spotify,New York, NY,"Testing;Automation;Python;Selenium",3,"Ensure quality of Spotify's applications through testing."
+1017,Technical Writer,Microsoft,Redmond, WA,"Technical Writing;Documentation;Git;Markdown",2,"Create technical documentation for Microsoft products."
+1018,Systems Administrator,IBM,Austin, TX,"Linux;Networking;Shell Scripting;Security",4,"Manage and maintain IBM's IT infrastructure."
+1019,Database Administrator,Oracle,Austin, TX,"SQL;Oracle;Performance Tuning;Backup",5,"Manage and optimize database systems."
+1020,Network Engineer,Cisco,San Jose, CA,"Networking;CCNA;Python;Security",4,"Design and implement network infrastructure."
+1021,Machine Learning Engineer,DeepMind,London, UK,"Python;TensorFlow;Research;ML",5,"Develop and implement machine learning models."
+1022,AR/VR Developer,Magic Leap,Plantation, FL,"Unity;C#;3D Graphics;AR/VR",3,"Develop augmented and virtual reality applications."
+1023,Embedded Systems Engineer,Intel,Santa Clara, CA,"C;C++;RTOS;Hardware",5,"Develop software for embedded systems."
+1024,Robotics Engineer,Boston Dynamics,Waltham, MA,"C++;Python;Robotics;Control Systems",5,"Develop software for robotic systems."
+1025,Quantum Computing Researcher,IBM,New York, NY,"Quantum Computing;Python;Physics;Research",6,"Research and develop quantum computing algorithms."
+1026,Natural Language Processing Engineer,OpenAI,San Francisco, CA,"Python;NLP;Deep Learning;Research",4,"Develop NLP models and algorithms."
+1027,Computer Vision Engineer,Tesla,Palo Alto, CA,"Python;OpenCV;Deep Learning;Computer Vision",4,"Develop computer vision systems for autonomous vehicles."
+1028,Distributed Systems Engineer,Twitter,San Francisco, CA,"Java;Scala;Distributed Systems;Kafka",5,"Develop and maintain distributed systems."
+1029,Performance Engineer,Netflix,Los Gatos, CA,"Java;Performance Testing;Profiling;Optimization",4,"Optimize performance of Netflix's services."
+1030,API Developer,Stripe,San Francisco, CA,"Node.js;API Design;REST;GraphQL",3,"Design and implement APIs for Stripe's platform."
+1031,Infrastructure Engineer,Google,Mountain View, CA,"Python;Terraform;Kubernetes;Cloud",5,"Manage and scale Google's infrastructure."
+1032,Compiler Engineer,Apple,Cupertino, CA,"C++;LLVM;Compiler Design;Optimization",6,"Develop and optimize compilers for Apple's platforms."
+1033,Graphics Programmer,NVIDIA,Santa Clara, CA,"C++;OpenGL;Vulkan;Graphics",5,"Develop graphics software and drivers."
+1034,Audio Engineer,Spotify,New York, NY,"Audio Processing;Python;C++;DSP",4,"Develop audio processing algorithms."
+1035,Geospatial Developer,Mapbox,San Francisco, CA,"Python;GIS;Mapping;WebGL",3,"Develop mapping and geospatial applications."
+1036,Real-time Systems Engineer,SpaceX,Hawthorne, CA,"C++;Real-time Systems;Embedded;Control",6,"Develop software for real-time control systems."
+1037,Quantum Software Engineer,Google,Mountain View, CA,"Python;Quantum Computing;Linear Algebra;Research",5,"Develop software for quantum computing."
+1038,Edge Computing Engineer,Microsoft,Redmond, WA,"C++;IoT;Edge Computing;Networking",4,"Develop edge computing solutions."
+1039,Game AI Developer,Unity,San Francisco, CA,"C#;Unity;AI;Game Development",4,"Develop AI systems for games."
+1040,Scientific Computing Engineer,NASA,Houston, TX,"Python;Scientific Computing;Physics;Simulation",5,"Develop scientific computing applications."
+1041,Blockchain Security Engineer,Chainalysis,New York, NY,"Security;Blockchain;Python;Cryptography",4,"Ensure security of blockchain systems."
+1042,AR/VR Research Engineer,Facebook Reality Labs,Redmond, WA,"C++;Computer Vision;AR/VR;Research",5,"Research and develop AR/VR technologies."
+1043,Autonomous Systems Engineer,Waymo,Mountain View, CA,"C++;Python;Robotics;ML",5,"Develop software for autonomous vehicles."
+1044,Quantum Cryptography Engineer,IBM,New York, NY,"Quantum Computing;Cryptography;Python;Research",6,"Develop quantum cryptography solutions."
+1045,High-Performance Computing Engineer,Intel,Santa Clara, CA,"C++;MPI;CUDA;Optimization",5,"Develop high-performance computing solutions."
+1046,Natural Language Understanding Engineer,Amazon,Seattle, WA,"Python;NLP;Deep Learning;Research",4,"Develop NLU systems for Alexa."
+1047,Computer Graphics Engineer,Pixar,Emeryville, CA,"C++;OpenGL;Rendering;Animation",5,"Develop graphics software for animation."
+1048,Distributed Database Engineer,Cockroach Labs,New York, NY,"Go;Distributed Systems;Databases;SQL",4,"Develop distributed database systems."
+1049,Network Security Engineer,Cisco,San Jose, CA,"Security;Networking;Python;Firewalls",5,"Develop network security solutions."
+1050,Embedded Linux Engineer,Qualcomm,San Diego, CA,"C;Linux;Embedded Systems;Drivers",4,"Develop embedded Linux systems." 
